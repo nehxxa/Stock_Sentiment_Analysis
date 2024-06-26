@@ -1,2 +1,2 @@
 # Stock_Sentiment_Analysis
-This project will explore how sentiment analysis can be applied to stock prediction.
+Stock market prediction is a challenging task due to the dynamic and volatile nature of financial markets. Traditional methods rely heavily on historical data and various statistical models. However, with the advent of social media and news platforms, sentiment analysis has emerged as a powerful tool to gauge market sentiment and predict stock movements. This guide will explore how sentiment analysis can be applied to stock prediction.
